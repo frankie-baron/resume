@@ -39,7 +39,7 @@
   Worked on the redesign of a shopping app for a Polish retail chain, enhancing the user interface and improving the onboarding and sign-in processes to create a better user experience.
 
 - **AdNote**, Junior iOS Developer  
-  Currently involved in the development of an innovative note-taking app, focusing on building foundational features and gaining hands-on experience in iOS development.
+  Was involved in the development of an innovative note-taking app, focusing on building foundational features and gaining hands-on experience in iOS development.
 
 
 [_Read more about my experience..._](./Details/CommercialProjects.md)
