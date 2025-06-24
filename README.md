@@ -20,23 +20,52 @@
 
 ## 2. Commercial Projects
 
-- **AkroAI**, CTO, iOS Developer
-- **Fairtiq**, iOS Developer
-- **Wage 3.0**, iOS Developer
-- **EasyInvoice 2.0**, iOS Developer
-- **Scoop**, iOS Developer
-- **Duży Ben 2.0**, iOS Developer
-- **AdNote**, Junior iOS Developer
+- **AkroAI**, CTO, iOS Developer  
+  Led the development and stabilization of the AkroAI MVP mobile and web applications, preparing them for public release while creating an automated deployment pipeline and managing hosting and domain services.
+
+- **Fairtiq**, iOS Developer  
+  Contributed to the development of a user-friendly public transport ticketing app, focusing on implementing a multi-traveler feature and ensuring high code quality through continuous delivery and extensive testing.
+
+- **Wage 3.0**, iOS Developer  
+  Played a key role in developing an app designed to connect users with odd job opportunities in their area, utilizing Swift and a CLEAN architecture to ensure maintainability and performance.
+
+- **EasyInvoice 2.0**, iOS Developer  
+  Managed the redesign of an invoicing app for the British and Canadian markets, creating a seamless migration flow for users transitioning from a legacy application.
+
+- **Scoop**, iOS Developer  
+  Gained valuable experience in project management and automation tools for the renewable energy sector, focusing on offline synchronization challenges and working extensively with CoreData.
+
+- **Duży Ben 2.0**, iOS Developer  
+  Worked on the redesign of a shopping app for a Polish retail chain, enhancing the user interface and improving the onboarding and sign-in processes to create a better user experience.
+
+- **AdNote**, Junior iOS Developer  
+  Currently involved in the development of an innovative note-taking app, focusing on building foundational features and gaining hands-on experience in iOS development.
+
 
 [_Read more about my experience..._](./Details/CommercialProjects.md)
   
 ## 3. Workplaces
 
-- **AkroAI**, *Czechia*
-- **Fairtiq AG**, *Switzerland*
-- **Iteo**, *Poland*
-- **Score Digital**, *Poland* (outsourced by Iteo)
-- **Omnis**, *Poland*
+- **AkroAI**, *Czechia*  
+  *2024 - 2025*  
+  Co-founded an e-learning platform focused on IT and AI digital skills, overseeing all technical aspects and product development.
+
+- **Fairtiq AG**, *Switzerland*  
+  *2022-2023*  
+  Contributed as an iOS Developer to a smart ticketing app for public transport, emphasizing quality and performance in a fast-paced, agile environment.
+
+- **Iteo**, *Poland*  
+  *2021-2022*  
+  Worked as an iOS Developer in a software house, gaining experience across various projects and learning Agile methodologies.
+
+- **Score Digital**, *Poland* (outsourced by Iteo)  
+  *2022*  
+  Served as an outsourced iOS Developer, primarily focused on redesigning the EasyInvoice app and collaborating closely with the app owner.
+
+- **Omnis**, *Poland*  
+  *2020-2021*  
+  Started my career as a Junior iOS Developer, where I acquired fundamental skills in app development and deployment.
+
 
 [_Read more about my workplaces..._](./Details/Workplaces.md)
 
@@ -78,7 +107,6 @@
 - Translating technical concepts
 - Creating a safe, inclusive space for others
 - Being empathetic and truthful
-
   <!-- [_Read more..._](./Details/TeamSkills.md)  -->
 
 ## 8. Other
