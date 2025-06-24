@@ -28,7 +28,8 @@
   Led the development and stabilization of the AkroAI MVP mobile and web applications, preparing them for public release while creating an automated deployment pipeline and managing hosting and domain services.
 
 - **Fairtiq**, iOS Developer  
-  Contributed to the development of a user-friendly public transport ticketing app, focusing on implementing a multi-traveler feature and ensuring high code quality through continuous delivery and extensive testing.
+  Contributed to the development of a user-friendly public transport ticketing app, focusing on implementing a multi-traveler feature and ensuring high code quality through continuous delivery and extensive testing. 0.5 mln active users.
+   **CI/CD**
 
 - **Wage 3.0**, iOS Developer  
   Worked on developing an app designed to connect users with odd job opportunities in their area, utilizing Swift and a CLEAN architecture to ensure maintainability and performance.
@@ -37,7 +38,7 @@
   Managed the redesign of an invoicing app for the British and Canadian markets, creating a seamless migration flow for users transitioning from a legacy application.
 
 - **Scoop**, iOS Developer  
-  Gained valuable experience in project management and automation tools for the renewable energy sector, focusing on offline synchronization challenges and working extensively with CoreData.
+  Gained valuable experience in project management and automation tools for the renewable energy sector, focusing on offline synchronization challenges and working extensively with CoreData. **Obj-C + Swift**
 
 - **Duży Ben 2.0**, iOS Developer  
   Worked on the redesign of a shopping app for a Polish retail chain, enhancing the user interface and improving the onboarding and sign-in processes to create a better user experience.
