@@ -110,7 +110,7 @@
 - Facilitating meetings
 - Translating technical concepts
 - Creating a safe, inclusive space for others
-- Being empathetic and truthful
+- Being empathetic and honest
   <!-- [_Read more..._](./Details/TeamSkills.md)  -->
 
 ## 8. Other
