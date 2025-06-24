@@ -3,6 +3,10 @@
 <!-- STRIP-END -->
 
 <img width="120" alt="Avatar" src="https://github.com/user-attachments/assets/fc15304b-384d-42aa-b886-5b44d9bbdb7d">
+<img width="60" alt="Avatar" src="https://github.com/user-attachments/assets/060d570c-057b-456d-9486-9830511bd194">
+<img width="30" alt="Avatar" src="https://github.com/user-attachments/assets/136e3d86-e97f-4688-8131-4221cce48d00">
+<img width="20" alt="Avatar" src="https://github.com/user-attachments/assets/23b88331-0efd-4156-901b-b23f29387000">
+
 
 ## 1. Personal Details
 
@@ -42,7 +46,7 @@
   Was involved in the development of an innovative note-taking app, focusing on building foundational features and gaining hands-on experience in iOS development.
 
 
-[_Read more about my experience..._](./Details/CommercialProjects.md)
+🔗[_Click here to read more about my experience..._](./Details/CommercialProjects.md)
   
 ## 3. Workplaces
 
@@ -67,7 +71,7 @@
   Started my career as a Junior iOS Developer, where I acquired fundamental skills in app development and deployment.
 
 
-[_Read more about my workplaces..._](./Details/Workplaces.md)
+🔗[_Click here to read more about my workplaces..._](./Details/Workplaces.md)
 
 ## 4. Education
 
@@ -78,7 +82,7 @@
     - Erasmus Exchange
     - 2019
 
-[_Read more about my education..._](./Details/Education.md)
+🔗[_Click here to read more about my education..._](./Details/Education.md)
 
 ## 5. Tech Skills
 
@@ -88,7 +92,7 @@
 - Assessing overall codebase health
 - Designing feature implementation strategies
 
-[_Read more about technologies I work with..._](./Details/TechSkills.md)
+🔗[_Click here to read more about technologies I work with..._](./Details/TechSkills.md)
 
 
 ## 6. Soft Skills
