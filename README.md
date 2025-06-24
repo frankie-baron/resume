@@ -5,7 +5,7 @@
 <img width="120" alt="Avatar" src="https://github.com/user-attachments/assets/fc15304b-384d-42aa-b886-5b44d9bbdb7d">
 <img width="60" alt="Avatar" src="https://github.com/user-attachments/assets/060d570c-057b-456d-9486-9830511bd194">
 <img width="30" alt="Avatar" src="https://github.com/user-attachments/assets/136e3d86-e97f-4688-8131-4221cce48d00">
-<img width="20" alt="Avatar" src="https://github.com/user-attachments/assets/23b88331-0efd-4156-901b-b23f29387000">
+<img width="15" alt="Avatar" src="https://github.com/user-attachments/assets/23b88331-0efd-4156-901b-b23f29387000">
 
 
 ## 1. Personal Details
