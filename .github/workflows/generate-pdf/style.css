@@ -11,7 +11,7 @@
 
 .anchor {
   float: left;
-  line-height: 1;
+  line-height: 0.9;
   margin-left: -20px;
   padding-right: 4px;
 }
@@ -53,10 +53,9 @@ body {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   color: #24292e;
-  line-height: 1.5;
+  line-height: 1.2;
   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;
   font-size: 16px;
-  line-height: 1.5;
   word-wrap: break-word;
 }
 
@@ -483,7 +482,7 @@ input::-webkit-outer-spin-button {
 }
 
 .lh-condensed {
-  line-height: 1.25!important;
+  line-height: 1.15!important;
 }
 
 .text-bold {
@@ -549,7 +548,7 @@ h4,
 h5,
 h6 {
   font-weight: 600;
-  line-height: 1.25;
+  line-height: 1.15;
   margin-bottom: 16px;
   margin-top: 24px;
 }
@@ -702,7 +701,7 @@ pre {
   background-color: #f6f8fa;
   border-radius: 3px;
   font-size: 85%;
-  line-height: 1.45;
+  line-height: 1.25;
   overflow: auto;
   padding: 16px;
 }
@@ -746,7 +745,7 @@ pre code {
   cursor: pointer;
   font-family: SFMono-Regular,Consolas,Liberation Mono,Menlo,Courier,monospace;
   font-size: 12px;
-  line-height: 20px;
+  line-height: 12px;
   min-width: 50px;
   padding-left: 10px;
   padding-right: 10px;
@@ -766,7 +765,7 @@ pre code {
 }
 
 .blob-code {
-  line-height: 20px;
+  line-height: 12px;
   padding-left: 10px;
   padding-right: 10px;
   position: relative;
