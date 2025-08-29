@@ -58,7 +58,7 @@
 ## 3. Workplaces
 
 - **Kyotu Technology**, *Poland*  
-  *2025*
+  *2025 - Present*  
   Serving as a Senior iOS Developer and Python Developer, focusing on scalable mobile solutions for public sector applications, while also leading the Verrific project to automate dental insurance inquiries through a Python server app that utilizes web scraping and large language models (LLM) for enhanced efficiency and accuracy.
 
 - **AkroAI**, *Czechia*  
