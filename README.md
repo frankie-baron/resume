@@ -25,7 +25,7 @@
 ## 2. Commercial Projects
 
 - **Verrific AI**, _Python Developer_  
-  As a Senior Developer, leading the design and development of a robust Python server application to automate dental insurance inquiries, integrating web scraping and large language models (LLM) while building a secure API that enhances efficiency and accuracy in processing user requests, ultimately improving the overall customer experience in the insurance industry.
+  Led the design and development of a robust Python server application to automate dental insurance inquiries, integrating web scraping and large language models (LLM) while building a secure API that enhances efficiency and accuracy in processing user requests, ultimately improving the overall customer experience in the insurance industry.
 
 - **i-KFZ**, _Senior iOS Developer_  
   Improved the accessibility of the German i-KFZ app, a public sector application for digital vehicle registration and management, by aligning features with BITV standards and implementing high security measures, thereby enhancing usability for all citizens while ensuring the protection of sensitive user data and streamlining the registration process.
