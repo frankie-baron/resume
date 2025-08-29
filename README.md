@@ -12,9 +12,9 @@
 
 ✌🏿  **Franciszek Baron**
 
-👨🏿‍💻  **Mobile Developer** 
+👨🏿‍💻  **Senior iOS Developer** | **Fullstack Python Developer** 
 
-🛠️  **4+ years, since 2020**
+🛠️  **5+ years, since 2020**
 
 🌍  [**_frankiebaron.com_**](http://frankiebaron.com)
 
@@ -24,32 +24,42 @@
 
 ## 2. Commercial Projects
 
-- **AkroAI**, CTO, iOS Developer  
+- **Verrific AI**, _Python Developer_  
+  As a Senior Developer, leading the design and development of a robust Python server application to automate dental insurance inquiries, integrating web scraping and large language models (LLM) while building a secure API that enhances efficiency and accuracy in processing user requests, ultimately improving the overall customer experience in the insurance industry.
+
+- **i-KFZ**, _Senior iOS Developer_  
+  Improved the accessibility of the German i-KFZ app, a public sector application for digital vehicle registration and management, by aligning features with BITV standards and implementing high security measures, thereby enhancing usability for all citizens while ensuring the protection of sensitive user data and streamlining the registration process.
+
+- **AkroAI**, _CTO, iOS Developer_  
   Led the development and stabilization of the AkroAI MVP mobile and web applications, preparing them for public release while creating an automated deployment pipeline and managing hosting and domain services.
 
-- **Fairtiq**, iOS Developer  
+- **Fairtiq**, _iOS Developer_  
   Contributed to the development of a user-friendly public transport ticketing app, focusing on implementing a multi-traveler feature and ensuring high code quality through continuous delivery and extensive testing. 0.5 mln active users.
    **CI/CD**
 
-- **Wage 3.0**, iOS Developer  
+- **Wage 3.0**, _iOS Developer_  
   Worked on developing an app designed to connect users with odd job opportunities in their area, utilizing Swift and a CLEAN architecture to ensure maintainability and performance.
 
-- **EasyInvoice 2.0**, iOS Developer  
+- **EasyInvoice 2.0**, _iOS Developer_  
   Managed the redesign of an invoicing app for the British and Canadian markets, creating a seamless migration flow for users transitioning from a legacy application.
 
-- **Scoop**, iOS Developer  
+- **Scoop**, _iOS Developer_  
   Gained valuable experience in project management and automation tools for the renewable energy sector, focusing on offline synchronization challenges and working extensively with CoreData. **Obj-C + Swift**
 
-- **Duży Ben 2.0**, iOS Developer  
+- **Duży Ben 2.0**, _iOS Developer_  
   Worked on the redesign of a shopping app for a Polish retail chain, enhancing the user interface and improving the onboarding and sign-in processes to create a better user experience.
 
-- **AdNote**, Junior iOS Developer  
+- **AdNote**, _Junior iOS Developer_  
   Was involved in the development of an innovative note-taking app, focusing on building foundational features and gaining hands-on experience in iOS development.
 
 
 🔗[_Click here to read more about my experience..._](./Details/CommercialProjects.md)
   
 ## 3. Workplaces
+
+- **Kyotu Technology**, *Poland*  
+  *2025*
+  Serving as a Senior iOS Developer and Python Developer, focusing on scalable mobile solutions for public sector applications, while also leading the Verrific project to automate dental insurance inquiries through a Python server app that utilizes web scraping and large language models (LLM) for enhanced efficiency and accuracy.
 
 - **AkroAI**, *Czechia*  
   *2024 - 2025*  
